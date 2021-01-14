@@ -1,0 +1,15 @@
+$break-tablet-rotate: 1024px;
+$break-tablet: 800px;
+$break-tablet-to-phone: 768px;
+$break-mobile: 500px;
+$break-small-mobile: 320px;
+
+@media screen and (min-width: 900px) and (max-width: $break-tablet-rotate){
+
+}
+@media screen and (max-width: $break-tablet-to-phone){
+
+}
+@media screen and (max-width: $break-mobile){
+	
+}
