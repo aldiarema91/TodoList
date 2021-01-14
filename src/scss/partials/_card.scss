@@ -1,0 +1,22 @@
+.card{
+	background: transparent !important;
+	border: none;
+
+	.card-header{
+		background: transparent;
+	    border: none;
+	    padding: 0;
+	}
+
+	.card-body{
+		background: $color-white;
+		padding: 20px 35px;
+
+		.list-todo{
+			.btn{
+				margin-left: 5px;
+			}
+		}
+	}
+
+}
