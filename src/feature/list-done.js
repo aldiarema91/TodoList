@@ -35,7 +35,7 @@ class ListDone extends React.Component {
               <h4 key={i}> { list.title } </h4>
             </div>
             <div className="col-2" align="right">
-              <button className="btn btn-warning">Lihat</button>
+              <button className="btn btn-warning">DONE!</button>
             </div>
           </div>
         )}
